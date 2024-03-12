@@ -1,2 +1,8 @@
 # SWI
 SWI Tesnet
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xaC51c51be976DF32999bA6FB8210A92bC00AB565'
+quorum: 1
